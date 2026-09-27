@@ -11,7 +11,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 ### Experimental mod that add
 * 3 playable planets
-* 4 T0 planets <br> * 1 cold <br> * 1 lava <br> * 1 Mars with DarkSpore elements <br> * Special billiard ball planet idea by **Moon** from Discord
+* 4 T0 planets <br> * 1 cold with DarkSpore elements <br> * 1 lava <br> * 1 Mars with DarkSpore elements <br> * Special billiard ball planet idea by **Moon** from Discord
 
 **Some planets are may use DarkSpore elements and custom fruits** <br>
 **A galaxy reset is recommended before using this mod.**
