@@ -15,3 +15,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 **Some planet may use DarkSpore elements and costum fruits** <br>
 **A galaxy reset is recommended before using this mod.**
+
+### Special thanks
+* [@DraptorRonin](https://github.com/DraptorRonin) for let me use their assets
+* [@A-xesey](https://github.com/A-xesey) for restore prototype fruits
