@@ -13,5 +13,5 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * 3 playable planets
 * 4 T0 planets
 
-**Some planet may use DarkSpore elements and costum fruits**
+**Some planet may use DarkSpore elements and costum fruits** <br>
 **A galaxy reset is recommended before using this mod.**
