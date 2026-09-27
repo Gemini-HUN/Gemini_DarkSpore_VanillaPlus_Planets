@@ -12,9 +12,12 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ### Experimental mod that add
 * 3 playable planets
 * 4 T0 planets
+* * 1 cold
 
 **Some planets are may use DarkSpore elements and custom fruits** <br>
 **A galaxy reset is recommended before using this mod.**
+
+### Updates are coming soon
 
 ### Special thanks
 * [@DraptorRonin](https://github.com/DraptorRonin) for let me use their assets
