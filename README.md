@@ -1,5 +1,5 @@
-# Gemini_planets
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_planets?style=flat-square&color=d81b60&logo=github)
+# Gemini_DarkSpore_VanillaPlus_Planets
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_DarkSpore_VanillaPlus_Planets?style=flat-square&color=d81b60&logo=github)
 
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
