@@ -6,8 +6,8 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 ## Requirements
 * [Darkspore-Objects](https://github.com/DraptorRonin/Darkspore-Objects) most important for working the mod
-* [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets) for fruits
-* [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) for see fruits in space stage
+* [Fruit_container_Gemini_mods](https://github.com/Gemini-HUN/Fruit_container_Gemini_mods) for better mod compatibility and appear the fruits
+* [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) to see fruits in space stage
 
 ### Experimental mod that add
 * 3 playable planets
